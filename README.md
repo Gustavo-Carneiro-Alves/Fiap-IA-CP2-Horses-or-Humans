@@ -1,6 +1,6 @@
-# Nome do projeto
+# FIAP - Horses or Humans
 
-**nome dos alunos:** 
+**Nome dos Integrantes do projeto:** 
 
 RM88066	Eduarda Mariano de Oliveira 
 RM87077	Enzo Wuillaume Marino 
