@@ -1,55 +1,39 @@
-# Template para desenvolvimento e entrega de NAC
-
-Esse é um guia simples, o grupo pode e deve modificar o template conforme necessidade. 
-
 # Nome do projeto
 
 **nome dos alunos:** 
 
-**Turma:**
+RM88066	Eduarda Mariano de Oliveira 
+RM87077	Enzo Wuillaume Marino 
+RM88392 Gustavo Carneiro Alves 
+RM88132	João Pedro Milani 
+RM87037	Luccas Vergueiro de Oliveira 
 
-**Ano:**
+
+**Turma:** 2TDSF
+
+**Ano:** 2022
 
 ## Objetivo / descrição do Projeto
 
-Explique de forma clara qual o objeto deste projeto, para que serve e comente as principais tecnologias utilizadas. 
+Nesse projeto criamos um notebook com um algoritmo de CNN (convolutional neural network) para destinguir os humanos dos cavalos do dataset usando python.
 
-## Diagrama do projeto
+## Diagrama do projeto 
 
-Adicione uma ou mais fotos do projeto, pode ser uma imagem da arquitetura, do circuito eletrônico do Flow desenvolvido. 
-
-<img src="/imagem.jpg" width="550">
+<img src="/IMG1.PNG" width="550">
+<img src="/IMG2.PNG" width="550">
+<img src="/IMG3.PNG" width="550">
+<img src="/IMG4.PNG" width="550">
+<img src="/IMG5.PNG" width="550">
 
 
 ## Como usar 
 
-Explique como rodar o seu projeto. Quais programas instalar, como configurar... 
-
-* Pode ser utilizado marcadores
-* Para ajudar na formatação
-
-Ou qualquer outra tabulação:
-
-- [x] Youtube
-- [ ] Facebook 
-- [x] Instagram
-
-Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
-
-    cd /home/iot
-    git clone https://github.com/arnaldojr/templatenac
-    cd templatenac
-    ls
-
-
-## Link de vídeo demonstração
-
-Adicione o link para assistir ao vídeo do projeto funcionando.
-
-[Link para o video youtube](https://www.youtube.com/watch?v=xva71wynxS0)
+Execute as células do notebook na orem correta e escolha um arquivo na última célula para fazer a validação.
 
 
 ### Referências 
 
-* [mastering-markdown](https://guides.github.com/features/mastering-markdown/)
-* [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+* [Use convolutional neural networks (CNNs) with complex images]https://developers.google.com/codelabs/tensorflow-5-compleximages#0
+* [Laurence Moroney - The AI Guy.]https://laurencemoroney.com/datasets.html
+* [Kaggle]https://www.kaggle.com/datasets/sanikamal/horses-or-humans-dataset
+* [INDIAN AI PRODUCTION]https://indianaiproduction.com/horse-or-human-prediction-using-cnn/
