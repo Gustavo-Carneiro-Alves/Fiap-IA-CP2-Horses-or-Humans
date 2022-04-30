@@ -33,7 +33,7 @@ Execute as células do notebook na orem correta e escolha um arquivo na última 
 
 ### Referências 
 
-* [Use convolutional neural networks (CNNs) with complex images]https://developers.google.com/codelabs/tensorflow-5-compleximages#0
-* [Laurence Moroney - The AI Guy.]https://laurencemoroney.com/datasets.html
-* [Kaggle]https://www.kaggle.com/datasets/sanikamal/horses-or-humans-dataset
-* [INDIAN AI PRODUCTION]https://indianaiproduction.com/horse-or-human-prediction-using-cnn/
+* [Use convolutional neural networks (CNNs) with complex images](https://developers.google.com/codelabs/tensorflow-5-compleximages#0)
+* [Laurence Moroney - The AI Guy.](https://laurencemoroney.com/datasets.html)
+* [Kaggle](https://www.kaggle.com/datasets/sanikamal/horses-or-humans-dataset)
+* [INDIAN AI PRODUCTION](https://indianaiproduction.com/horse-or-human-prediction-using-cnn/)
