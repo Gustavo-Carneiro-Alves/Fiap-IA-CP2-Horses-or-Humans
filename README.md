@@ -1,12 +1,11 @@
 # FIAP - Horses or Humans
 
 **Nome dos Integrantes do projeto:** 
-
-RM88066	Eduarda Mariano de Oliveira 
-RM87077	Enzo Wuillaume Marino 
-RM88392 Gustavo Carneiro Alves 
-RM88132	João Pedro Milani 
-RM87037	Luccas Vergueiro de Oliveira 
+* RM88066	Eduarda Mariano de Oliveira
+* RM87077	Enzo Wuillaume Marino 
+* RM88392 Gustavo Carneiro Alves 
+* RM88132	João Pedro Milani 
+* RM87037	Luccas Vergueiro de Oliveira 
 
 
 **Turma:** 2TDSF
